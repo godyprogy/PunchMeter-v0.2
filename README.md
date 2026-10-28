@@ -12,7 +12,7 @@ Perfect for solo training, coach-assisted sessions, and tracking athletic progre
 </p>
 
 <p align="center">
-  <img src="/images/sreeanshot.png" alt="PunchMeter Screenshot" width="100%"/>
+  <img src="images/sreeanshot.png" alt="PunchMeter Screenshot" width="100%"/>
 </p>
 
 ---
